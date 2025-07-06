@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    background-color: hsl(196, 44%, 34%);
+}
+
+section {
+    width: 100%;
+}
