@@ -13,19 +13,11 @@ section {
     width: 100%;
 }
 
-#header {
-    position: fixed;
-    top: 0;
-    height: 8rem;
-    border-bottom: 10px ridge hsl(196, 44%, 44%);
-    background-color: hsl(196, 44%, 24%);
-}
-
 #list {
     padding-top: 8rem;
 }
 
-#footer {
+/* #footer {
     position: fixed;
     bottom: 0;
     width: 100%;
@@ -38,9 +30,9 @@ section {
     );
     display: flex;
     justify-content: center;
-}
+} */
 
-#plus {
+/* #plus {
     width: 6rem;
     height: 6rem;
     transform: rotate(45deg);
@@ -56,7 +48,7 @@ section {
     justify-content: center;
     align-items: center;
     z-index: 2;
-}
+} */
 
 #plus:hover {
     background-color: hsl(16, 100%, 46%);
